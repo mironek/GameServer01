@@ -1,0 +1,16 @@
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\GameServer01.exe.config
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\GameServer01.exe
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\GameServer01.pdb
+D:\Projects\dotNET\GameServer01\GameServer01\obj\Debug\GameServer01.csproj.AssemblyReference.cache
+D:\Projects\dotNET\GameServer01\GameServer01\obj\Debug\GameServer01.csproj.CoreCompileInputs.cache
+D:\Projects\dotNET\GameServer01\GameServer01\obj\Debug\GameServer01.exe
+D:\Projects\dotNET\GameServer01\GameServer01\obj\Debug\GameServer01.pdb
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\Common.dll
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\Common.pdb
+D:\Projects\dotNET\GameServer01\GameServer01\obj\Debug\GameServer01.csproj.CopyComplete
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\MySql.Data.dll
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\System.Memory.dll
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\System.Buffers.dll
+D:\Projects\dotNET\GameServer01\GameServer01\bin\Debug\MySql.Data.xml
